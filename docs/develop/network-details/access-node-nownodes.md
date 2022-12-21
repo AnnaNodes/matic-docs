@@ -68,7 +68,7 @@ curl https://matic.nownodes.io/ <your API key> \
 **Way 2 &rarr;**
 
 ```bash
-curl  https://matic.nownodes.io/ \
+curl https://matic.nownodes.io/ \
 -X POST \
 -H "Content-Type: application/json" \
 -H "api-key: <your API key>"

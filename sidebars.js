@@ -66,6 +66,7 @@ module.exports = {
         "develop/network-details/full-node-binaries",
         "develop/network-details/full-node-docker",
         "develop/network-details/network-rpc-endpoints",
+	"develop/network-details/access-node-nownodes",
         {
           type: "category",
           label: "Erigon's Archive Node",

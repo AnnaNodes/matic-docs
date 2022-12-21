@@ -75,4 +75,4 @@ curl  https://matic.nownodes.io/ \
 -d '{"jsonrpc":"2.0","method":"eth_gasPrice","params":[],"id":73}'
 ```
 
-Check out [this article](https://nownodes.io/blog/polygon-how-to-build-a-dapp-on-polygon/) on how to build a dApp on Polygon.```
+Check out [this article](https://nownodes.io/blog/polygon-how-to-build-a-dapp-on-polygon/) on how to build a dApp on Polygon.

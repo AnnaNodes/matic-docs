@@ -39,7 +39,7 @@ This guide assumes you already have an [NOWNodes account](https://account.nownod
 First, you'll need an NOWNodes API key to authenticate your requests. You can [create API keys from the dashboard](https://account.nownodes.io/profile/dashboard). 
 Navigate to the **ADD NEW KEY** button on the **DASHBOARD** page.
 
-![img](https://files.readme.io/693457a-Getting_Started.png)
+![img](/img/nownodes/add-api-key.png)
 
 **Step 2 &rarr;** Make Your First CURL Request.
 
